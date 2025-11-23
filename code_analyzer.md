@@ -1,6 +1,6 @@
 ---
 name: Code Guide
-description: New prompt for code analysis guide
+description: New prompt for code analysis guidance
 invokable: true
 ---
 
