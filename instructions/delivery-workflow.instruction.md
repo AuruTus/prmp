@@ -17,7 +17,7 @@ Follow a structured **plan → execute → validate → conclude** cycle for eve
 ## Execution
 - Make minimal, targeted changes — don't over-engineer.
 - Fix issues as they surface (e.g., column header mismatches).
-- Run scripts using the correct pyenv environment (see `python-env-setup.md`).
+- Run scripts using the correct pyenv environment.
 
 ## Validation
 - Verify outputs programmatically (e.g., `pd.read_csv` to confirm data loads correctly).
@@ -37,5 +37,5 @@ Follow a structured **plan → execute → validate → conclude** cycle for eve
 
 ## Knowledge Preservation
 - If any skill, pattern, or information from this task could be useful in **future sessions or for other agents**, record it in `knowledge-base/`.
-- Create a focused file with a clear, explicit name (see `information-code-isolation.md`).
+- Create a focused file with a clear, explicit name.
 - This ensures reusable knowledge persists beyond the current task.
